@@ -1,0 +1,20 @@
+Six datasets have been retrieved from Our World in Data (https://ourworldindata.org/): 
+
+  * Annual CO2 emissions measured in tonnes. Published by Global Carbon Project
+  * Population by country. Published by United Nations, Department of Economic and Social Affairs, Population Division (2022)
+  * Air travel km per capita. Published by the International Council on Clean Transportation (ICCT)
+  * Meat production. Published by Food and Agriculture Organization of the United Nations
+  * Milk production. Published by Food and Agriculture Organization of the United Nations
+  * Plastic pollution. Published by Meijer et al. (2021). More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean. Science Advances.
+
+Variables and descriptions
+
+co2 = Annual CO2 emissions measured in tonnes, for 1000 people 
+pop = The population of a country 
+airtravel = The number of kilometers travelled by 1000 paying passengers, includes both domestic and international travel. International flights are considered for the country of departure. 
+meat = Total production of meat in a country measured in tonnes per 1000 people
+milk = Total production of milk in a country measured in tonnes per 1000 people
+plastic_pol = Plastic waste discarded into the ocean per 1000 people measured in kilograms per year 
+
+
+R VERSION 2022.07.0+548 
